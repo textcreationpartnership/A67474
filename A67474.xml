@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wigornia, (Worcester.) A poem. By Herbert Walwyn</title>
+            <author>Walwyn, Herbert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67474</idno>
+            <idno type="STC">Wing W677A</idno>
+            <idno type="STC">ESTC R219527</idno>
+            <idno type="EEBO-CITATION">99830994</idno>
+            <idno type="PROQUEST">99830994</idno>
+            <idno type="VID">35456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2085:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wigornia, (Worcester.) A poem. By Herbert Walwyn</title>
+                  <author>Walwyn, Herbert.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35456:1" rendition="simple:additions"/>
+            <p>WIGORNIA, (Worceſter.)</p>
+            <p>A POEM.</p>
+            <figure>
+               <figDesc>portrait of a woman</figDesc>
+            </figure>
+            <p>By HERBERT WALWYN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35456:2"/>
+            <pb n="1" facs="tcp:35456:2"/>
+            <head>WIGORNIA</head>
+            <head>A POEM.</head>
+            <lg>
+               <l>NIgh where<note n="a" place="bottom">A Royal Lady of that Name thrown into the River, and from whom it had its deno<g ref="char:EOLhyphen"/>mination.</note> 
+                  <hi>Sabrina</hi> ſweeps her Silver Trai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And wears her liquid Path along a<note n="b" place="bottom">A large Meadow call'd <hi>Pitchcraft.</hi>
+                  </note> Plain,</l>
+               <l>Stands <hi>WIGORN;</hi> haſt'ning unto whoſe Embrace</l>
+               <l>She forwards with a Willing Lover's pace:</l>
+               <l>Swelling her Breaſts, her ſpacious Boſom fair,</l>
+               <l>Full fraught with Love ſhe ſpends enjoying there.</l>
+               <l>The Noble<note n="c" place="bottom">A Hill, whence vaſt quantities of Coals are brought down the <hi>Severn</hi> to <hi>Worceſter,</hi> and ſupplies all the County at cheapeſt Rates.</note> 
+                  <hi>Clee</hi> her breaſt with Paſſion fires,</l>
+               <l>Which here breaks out, and in bright Flames expires;</l>
+               <l>But her exhauſtleſs Vigor ſtill returns,</l>
+               <l>For ever kindles, and for ever burns:</l>
+               <l>For here the Goddeſs leaves her Houſhold Streams,</l>
+               <l>To come aſhore, and puts on all her beams:</l>
+               <l>Then with Maternal look ſurveys the Shire,</l>
+               <l>And where ſhe ſees it wanting, <hi>Blazes</hi> there.</l>
+               <l>Meadows with Graſs ſhe cloaths, with Wool the Fold,</l>
+               <l>And with both Cloath and Fire expels the Cold:</l>
+               <l>
+                  <pb n="2" facs="tcp:35456:3"/>
+Cloath which the Ambitious <hi>Sultan</hi> begs to wear,</l>
+               <l>And his beſt part of Majeſty has here;</l>
+               <l>And Fire, which had <hi>Prometheus</hi> but knew,</l>
+               <l>He had forbore his Theft, and 'ſcap'd the Vengeance too.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Rocks</hi> have oblig'd the<note n="d" place="bottom">
+                     <hi>Exod.</hi> 17.6.</note> 
+                  <hi>Good</hi> with Streams before,</l>
+               <l>But here a <hi>Stream</hi> with Rocks obliges more:</l>
+               <lg>
+                  <l>'Tis the ſame Hand is working for <hi>them</hi> Yet,</l>
+                  <l>He from<note n="e" place="bottom">A Hill in <hi>Montgomery-ſhire,</hi> where the River <hi>Severn</hi> has its riſe.</note> 
+                     <hi>Plinlimon</hi> Mount the River fet,</l>
+                  <l>Then tam'd its unback'd force with loads of <hi>Jet.</hi>
+                  </l>
+               </lg>
+               <l>
+                  <hi>Peter,</hi> that on a Floor of Water trod<note n="f" place="bottom">
+                     <hi>Matth.</hi> 14.29, 30.</note>,</l>
+               <l>And kneeling on the <hi>Mercy,</hi> thank'd his <hi>God,</hi>
+               </l>
+               <l>Might here with Steps more ſure, but Thanks as due,</l>
+               <l>Truſt his own Feet, and Praiſe his <hi>Saviour</hi> too.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Dolphins,</hi> who as the Ship-wreck'd Sea-men ſay,</l>
+               <l>On their kind Backs them to ſafe Land convey,</l>
+               <l>Are here by better Natur'd<note n="g" place="bottom">Salmons.</note> Fiſh outdone,</l>
+               <l>That Danger to prevent, aſhore do run.</l>
+               <l>That harmleſs <hi>Other,</hi> whoſe miſchievous make</l>
+               <l>Excites Revenge, by being like a Snake,</l>
+               <l>Strips off his ſlime, and comes a willing Prey,</l>
+               <l>With him his elder Brother <hi>Lampery;</hi>
+               </l>
+               <l>Theſe, and innumerable other Fiſh,</l>
+               <l>Sing in their <hi>Pans,</hi> for Joy they have their Wiſh.</l>
+            </lg>
+            <lg>
+               <l>Thrice happy <hi>Worſter,</hi> thy Felicity</l>
+               <l>Is perfected by added Conſtancy;</l>
+               <l>
+                  <pb n="3" facs="tcp:35456:3"/>
+Yoaked by thy Bridge flung o're her ſpreading Tyde,</l>
+               <l>Thou haſt her ever faſten'd by thy ſide.</l>
+               <l>But Thou as conſcious of thy<note n="h" place="bottom">Built by the <hi>Romans.</hi>
+                  </note> Ancient Birth,</l>
+               <l>And recollecting Yet thy Native Worth,</l>
+               <l>Think'ſt ſtill of <hi>Caeſar,</hi> not as dead but come,</l>
+               <l>With his Tranſported Empire here from <hi>Rome:</hi>
+               </l>
+               <l>
+                  <hi>William</hi> is <hi>Caeſar</hi> with a Chriſtian Name,</l>
+               <l>So thou beſides a Chriſtian art the ſame:</l>
+               <l>Therefore receiveſt Tribute in his right,</l>
+               <l>Won by his Sword in the fam'd<note n="i" place="bottom">Which they fortify'd, and made their Frontier againſt the <hi>Welch.</hi>
+                  </note> 
+                  <hi>Britiſh Fight.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But thou haſt doft the ſullen looks of War,</l>
+               <l>And left the <hi>Mercian</hi>
+                  <note n="k" place="bottom">Heretofore a diſtinct Kingdom, by that Name, with Princes of
+its own.</note> Realm to <hi>Caeſar</hi>'s Care:</l>
+               <l>Thy Armor's needleſs now thy Maſter's here,</l>
+               <l>Thy <hi>Maſter</hi> that does the Old<note n="l" place="bottom">Veni, Vidi, Vici.</note> Motto wear.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Churches</hi> are all the <hi>Forts</hi> thou uſeſt now,</l>
+               <l>And thoſe well lin'd with <hi>mounted</hi> Cannon too:</l>
+               <l>Terrors of <hi>Vice,</hi> if mannag'd but aright,</l>
+               <l>And not turn'd back upon thee in the Fight.</l>
+               <l>This is the talk'd of Heavenly Temper'd <hi>Shield,</hi>
+               </l>
+               <l>Which thy divine <hi>Achilles</hi> knows to weild.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sexuulphus</hi>
+                  <note n="m" place="bottom">Firſt Biſhop of <hi>Worſter,</hi> and Founder of the Cathedral.</note> Piety does here appear,</l>
+               <l>Like his Mind great, his Judgment regular;</l>
+               <l>
+                  <pb n="4" facs="tcp:35456:4"/>
+No <hi>Novice;</hi> Colleges my thinks ſhould be,</l>
+               <l>Like<note n="n" place="bottom">1 <hi>Timothy</hi> 3, &amp; 6.</note> Biſhops from that Imputation free.</l>
+               <l>Th' <hi>Apoſtle's</hi> Rule at leaſt is follow'd here,</l>
+               <l>Altho' neglected by himſelf<note n="o" place="bottom">Alluding to St. <hi>Pauls</hi> in <hi>London,</hi> new Building.</note> elſewhere.</l>
+            </lg>
+            <lg>
+               <l>What time (and Time do's much to Words, and Works,</l>
+               <l>To <hi>Engliſh</hi> Preachers, and to <hi>Engliſh</hi> Kirks)</l>
+               <l>Did raze and alter, freſher times took care,</l>
+               <l>And (Piety renew'd) did new repair.</l>
+               <l>Not but the <hi>Holy Man</hi> was ſometimes blam'd,</l>
+               <l>That it was not to pleaſe all Humours fram'd;</l>
+               <lg>
+                  <l>Like <hi>Nezer</hi>'s Statue, <hi>Gold,</hi> and <hi>Braſs,</hi> and <hi>Clay;</hi>
+                  </l>
+                  <l>But then alas 't had Headleſs been, ſome day</l>
+                  <l>The trait'rous Head would 'a look'd the wrong way.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Remember'd Years have ſeen an Hoſtile Rout</l>
+               <l>Pull of her <hi>Roof,</hi> and tear her<note n="p" place="bottom">In the laſt Civil War, its Leads and Organs were took away.</note> 
+                  <hi>Bowels</hi> out:</l>
+               <l>As if 'twere not enough the World ſhould ſee,</l>
+               <l>And ſenſeleſs of God's Omnipreſency,</l>
+               <l>Let in Wide Heav'n th' Impiety to View,</l>
+               <l>Defieing both th' <hi>One</hi> and th' <hi>Other</hi> too.</l>
+               <l>The Churchs Leads they into Bullets form'd,</l>
+               <l>And vainly thought they then had God diſarm'd:</l>
+               <l>In Magazines of <hi>Life</hi> they choſe out <hi>Death,</hi>
+               </l>
+               <l>So ſome Men ſuck the <hi>Plague</hi> in with their Breath;</l>
+               <l>
+                  <pb n="5" facs="tcp:35456:4"/>
+Heaven ſaw the Challenge, and the Church to skreen,</l>
+               <l>The whilſt his Vengeance heated, ſtood between</l>
+               <l>
+                  <hi>Ruin</hi> and it; then Pour'd his Vials forth,</l>
+               <l>And Force repaid with Force, and<note n="q" place="bottom">Alluding to the violent Deaths of the Chief Fomenters of that War on both ſides.</note> Wrath with Wrath:</l>
+               <l>Inſtructed <hi>Ire</hi> the Seeds of Diſcord ſwep</l>
+               <l>From every Party to one common heap;</l>
+               <l>Then burnt it up, the <hi>Aſhes</hi> cur'd the Wound,</l>
+               <l>By divine Art apply'd the Church made ſound.</l>
+            </lg>
+            <lg>
+               <l>Here <hi>Arthur</hi> [wiſeſt<note n="r" place="bottom">King <hi>Henry</hi> the 7<hi rend="sup">th</hi>,</note> 
+                  <hi>Henry</hi>'s wiſer Son]</l>
+               <l>Did from a <hi>Crown</hi> to Sanctuary run,</l>
+               <l>And tired with State-noiſe here laid him down,</l>
+               <l>And was in Life and Death the next a<note n="ſ" place="bottom">King <hi>John</hi> there alſo Buryed.</note> Crown.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Palace</hi> next, the <hi>Biſhops</hi> long abode,</l>
+               <l>Stands <hi>with an humble Boldneſs</hi> near its God:</l>
+               <l>A Place 'twas ſure by Providence deſign'd</l>
+               <l>For the juſt Medium of a Prelate's Mind:</l>
+               <l>
+                  <note n="t" place="bottom">Between the Col<g ref="char:EOLhyphen"/>ledge and the <hi>Severn.</hi>
+                  </note>Between the two extreams of Cold, and Heat,</l>
+               <l>The <hi>Atheiſts</hi> chillneſs, and the <hi>Zealots</hi> ſweat.</l>
+               <l>
+                  <hi>One</hi> ſide, the Palace looks into the flood,</l>
+               <l>The <hi>other</hi> is by the Cathedral view'd:</l>
+               <l>That ſide, the <hi>Severn</hi> ſtands as 'twere at Bay,</l>
+               <l>Viewing the Place, unmindfull of its way,</l>
+               <l>Holding her Mirrour for who dares to look,</l>
+               <l>And read the impartial Story of her Book.</l>
+               <l>
+                  <pb n="2" facs="tcp:35456:5"/>
+I did, and to my thinking plain was ſeen</l>
+               <l>Th' impreſſion where the Palace had been in.</l>
+               <l>The Stream was deep, and the Houſe ſafe on Ground,</l>
+               <l>I Chid my <hi>Sight,</hi> and ſaid it would 'a drown'd</l>
+               <l>Had it been there; at which <hi>Sabrina</hi> ſmil'd,</l>
+               <l>And after Invocation anſwer'd mild:</l>
+               <l>"What thou ſeeſt [Son] ingrav'd upon my Breaſt,</l>
+               <l>"Is <hi>Figure,</hi> and as ſuch is there expreſs'd.</l>
+               <l>I anſwer'd not the <hi>Oracle,</hi> but bow'd,</l>
+               <l>And the fair Shape ſunk down beneath her flood;</l>
+               <l>Yet as ſhe went, my thought ſhe would have ſaid,</l>
+               <l>"Put up thy Pious Anger, ſpare the Dead.</l>
+               <l>This Prohibition ſeal'd up all but thought,</l>
+               <l>And a deep Sigh or two I ſtrait-way fetcht;</l>
+               <l>And then I thank'd my God, and thank'd the King,</l>
+               <l>That took the one, and did the other bring.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>More to the Left, in the ſame Neighbourhood,</l>
+                  <l>Stands the round Mount whereon the<note n="u" place="bottom">Built by a Sheriff or Governour of the City, in deſpite of, and to Command and Terrifie the Clergy, oft times burnt down, and Ages ago utterly ruin'd.</note> 
+                     <hi>Caſtle</hi> ſtood,</l>
+                  <l>That with ſtern diſregard did there intrude.</l>
+               </lg>
+               <l>But as the <hi>Giants</hi> felt the dreadful Odds,</l>
+               <l>When their Height thought to overtop the Gods,</l>
+               <lg>
+                  <l>This greater Son of <hi>Earth</hi> with the ſame Hope,</l>
+                  <l>Making the Church his <hi>Foe,</hi> and not his <hi>Prop,</hi>
+                  </l>
+                  <l>Lower'd to deſtruction his preſuming Top.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:35456:5"/>
+               <l>
+                  <note n="w" place="bottom">The City.</note>Here every <hi>Virtue</hi> has her ſeveral Seat,</l>
+               <l>Each to her Quality becoming great:</l>
+               <l>Religion <hi>Temples,</hi> Juſtice has her <hi>Hall,</hi>
+               </l>
+               <l>And<note n="x" place="bottom">1 <hi>Cor.</hi> 13.13.</note> Charity the biggeſt of them all.</l>
+            </lg>
+            <lg>
+               <l>The Streets are wide and open as their Hearts,</l>
+               <l>Breathing out Kindneſs to the Neighb'ring Parts,</l>
+               <l>In all the Forms of Induſtry and Arts.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Oh would but Fate proportion to their Loom</l>
+                  <l>The Threds of Life, then Death would never come,</l>
+                  <l>And <hi>Worſter</hi> would adjourn the Day of Doom.</l>
+               </lg>
+               <lg>
+                  <l>The plyant Wool drawn by ten thouſand Hands,</l>
+                  <l>To length ſcarce finite, would out-reach the Spans</l>
+                  <l>Of Life, tho' tyed in one throughout all Times and Lands.</l>
+               </lg>
+               <l>But ſince the <hi>Siſters</hi> will uſe their own <hi>make,</hi>
+               </l>
+               <l>Purpoſely brittle, and ſo apt to break;</l>
+               <l>So cautious and wary is the Town,</l>
+               <l>They piece it up, and Weave it with their<note n="y" place="bottom">Alluding to their great Cloathing Trade.</note> own;</l>
+               <l>That Fate to come at <hi>one,</hi> muſt break thro' <hi>both,</hi>
+               </l>
+               <l>And e're it takes their <hi>Lives</hi> muſt Spoyl their <hi>Cloath.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Natural as their Skins the <hi>Engliſh</hi> wear,</l>
+               <l>And all true Sterling Cloath is minted here.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:35456:6"/>
+               <l>What Wonders ſhould be ſpoke, that do reſide</l>
+               <l>Within the circuit of thy Province wide:</l>
+               <lg>
+                  <l>Nature with varied hand does draw Delight</l>
+                  <l>To all Perception; Smell, and Taſt, and Sight;</l>
+                  <l>Sinks into Rivers, riſes up in Height:</l>
+               </lg>
+               <l>And then agen lays down her ſelf in Plains,</l>
+               <l>Painted with Flowers, and Squar'd with different Grains,</l>
+               <l>Hemm'd in with Hedges; Pleaſure mixt with Uſe,</l>
+               <l>And the well taſted Orchard's Cheering Juice;</l>
+               <l>Potable Fruit it bears, Wine in the Ore,</l>
+               <l>The Trees themſelves for Drink have ſcarce the Power</l>
+               <l>To ſtand, 'till like a <hi>Fountain</hi> from the Boughs</l>
+               <l>The ruptur'd Fruit their Chryſtal Liquor throws;</l>
+               <l>Theſe having once their proper Seaſon bled,</l>
+               <l>Agen the reeling Tree erects his Nodding Head.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here</hi> Fleecy People grazeing common Herbs,</l>
+               <l>
+                  <hi>Yonder</hi> Pied Goats on Cliffs a browzing Shrubs;</l>
+               <l>
+                  <hi>There</hi> goes the Bull, the Regent of the Mead,</l>
+               <l>Thwart his Dominion, with Dictating Head;</l>
+               <l>The' Obſequious Herd to make him way divide,</l>
+               <l>Then joyn in the Proceſſion of his Pride.</l>
+            </lg>
+            <lg>
+               <l>The Apoſtolick<note n="z" place="bottom">Fiſhing.</note> Art here's perfected,</l>
+               <l>And their days toyl would here have better ſped.</l>
+               <lg>
+                  <pb n="9" facs="tcp:35456:6"/>
+                  <l>The <hi>Severn, Avon, Salwerp, Teame,</hi> and <hi>Stour,</hi>
+                  </l>
+                  <l>And ſilent <hi>Lorn,</hi> with all their Watry Store,</l>
+                  <l>Would not have broke their Netts, but fill'd them more.</l>
+               </lg>
+               <l>Catchers of <hi>Fiſh,</hi> or <hi>Men,</hi> they had had Sport,</l>
+               <l>And might to Burroughs, or to Streams reſort;</l>
+               <l>Or both at once, or <hi>Either</hi> found in Both,</l>
+               <l>
+                  <hi>Fiſh</hi> took in Towns, or <hi>Men</hi> from Rivers forth:</l>
+               <l>
+                  <hi>Theſe</hi> ſwim like Fiſh the Navigated Stream,</l>
+               <l>And in the Market <hi>thoſe</hi> do Trade like <hi>them.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Bewdley</hi> for Beauty, <hi>Kidderminſter</hi> Trade,</l>
+               <l>
+                  <hi>Bromſgrove</hi> a place of endleſs<note n="a" place="bottom">Seat of the Duke of <hi>Shrewsbury.</hi>
+                  </note> Honour made;</l>
+               <l>
+                  <hi>Tenbury,</hi> and much eſteemed <hi>Ham,</hi>
+               </l>
+               <l>A Caſtle once, but now a better<note n="b" place="bottom">Seat of the <hi>Jefferys.</hi>
+                  </note> Name:</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pton,</hi> then <hi>Eviſham,</hi> the Countys<note n="c" place="bottom">The Vale of <hi>Eſom</hi> ſerves the whole Town and Shire with Corn, being Coveted both for Seed and preſent Uſe.</note> 
+                  <hi>Loaf,</hi>
+               </l>
+               <l>Which every Hand is daily cutting of,</l>
+               <l>But cann't diminiſh, Wonder joyns to which,</l>
+               <l>As next in Uſefulneſs, <hi>all ſeaſoning</hi>
+                  <note n="d" place="bottom">Droitwich.</note> 
+                  <hi>Wich.</hi>
+               </l>
+               <l>
+                  <hi>Here</hi> ſprings of Liquid Salt to Duſt they Boyl,</l>
+               <l>
+                  <hi>There</hi> the Neat Dames are ſifting Flow'r the while:</l>
+               <l>At <hi>Wick</hi> the Damſels ply the froathing Cream,</l>
+               <l>With quick repeated ſtrokes, then bring to <hi>them</hi>
+               </l>
+               <lg>
+                  <pb n="10" facs="tcp:35456:7"/>
+                  <l>Their well made Pounds; then mingled in a Trough,</l>
+                  <l>Soon comes to Life the kind fermenting Dough,</l>
+                  <l>That Travels on Lifes errand too and fro.</l>
+               </lg>
+            </lg>
+            <lg>
+               <lg>
+                  <l>
+                     <note n="e" place="bottom">
+                        <hi>Powick,</hi> on a riſing Ground overlooking <hi>Worceſter</hi> and <hi>Wickfield</hi> [Fight.]</note> 
+                     <hi>Powick</hi> made famous by a King's defeat,</l>
+                  <l>That Purchas'd there a <hi>juſt</hi> Surname of <hi>Great,</hi>
+                  </l>
+                  <l>But after ſuch a Way that <hi>Powick</hi>
+                     <note n="f" place="bottom">Cover'd with Cherry Orchards.</note> bluſhes Yet.</l>
+               </lg>
+               <l>Hence <hi>Charles</hi> was ſent to<note n="g" place="bottom">The Royal Oak.</note> 
+                  <hi>Rooſt,</hi> the <hi>Scots</hi> to Death,</l>
+               <l>For Gabbleing wrong our <hi>Engliſh Shibboleth:</hi>
+               </l>
+               <lg>
+                  <l>On the fought Field a<note n="h" place="bottom">A Wind-Mill.</note> Monument there ſtands,</l>
+                  <l>They ſay of <hi>Him,</hi> with ever-flying Fanes,</l>
+                  <l>Yet tho' it always runs, it always ſtands.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Newland,</hi> if thou art by my Song forgot,</l>
+               <l>Let my Voice ceaſe, and Death diſperſe my Thought:</l>
+               <l>Thy Solemn Proſpect, and thy Widow'd Houſe,</l>
+               <l>Can I forget? could <hi>Judah</hi>'s People chooſe</l>
+               <l>But think on <hi>Jebus</hi> by <hi>
+                     <g ref="char:V">Ʋ</g>phrates</hi> Tide?</l>
+               <l>They could not; of Lov'd <hi>Jebus</hi> ſtill they ſigh'd.</l>
+            </lg>
+            <lg>
+               <l>Grief does conduct me hence to <hi>Aldwin</hi>'s<note n="i" place="bottom">The Abby of great <hi>Malvern,</hi> built by one <hi>Aldwin</hi> a Hermit.</note> Cell,</l>
+               <l>Under the Amazing Structure of a<note n="k" place="bottom">Malvern-hill.</note> 
+                  <hi>Hill,</hi>
+               </l>
+               <lg>
+                  <pb n="11" facs="tcp:35456:7"/>
+                  <l>Which Nature did with through paced Labor rear,</l>
+                  <l>And for Materials level'd half the Shire,</l>
+                  <l>As if ſhe meant it for the World's Frontier:</l>
+               </lg>
+               <l>For ſo It ſeems, and ſo the <hi>Hermit</hi> thought,</l>
+               <l>When weary to the Foot of it he got;</l>
+               <l>Farewel Mankind, and Farewel World, he ſaid,</l>
+               <l>Then up the Hill to <hi>Heaven</hi> he lift his Head,</l>
+               <l>With thanks that by <hi>Its</hi> guidance he had now</l>
+               <l>Paſs'd the dull Journey of a Mortal through.</l>
+               <l>
+                  <hi>Which</hi> heard (for grateful Prayers run up a pace,</l>
+               <l>And the Hill-top is very near the Place)</l>
+               <l>With Pity all the hearty Words he ſpake,</l>
+               <l>And took him e're he found out his Miſtake.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here</hi> Aldwin, <hi>and thy almoſt Name-ſake, reſt:</hi>
+               </l>
+               <l>
+                  <hi>Sometime I'll tell ye that your Choyce was beſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now of <hi>Worſter,</hi> Muſe, break off thy Song,</l>
+               <l>Its Argument's too heavy for my Tongue,</l>
+               <l>To weild in Words, and legible its Fame,</l>
+               <l>In Characters too bigg for thee to Name.</l>
+               <l>Of <hi>Sommers</hi> what canſt ſay, and <hi>Stillingfleet,</hi>
+               </l>
+               <l>Where is thy Parallel, thy Epithet?</l>
+               <l>
+                  <pb n="12" facs="tcp:35456:8"/>
+Infer'ſt thou ought from<note n="l" place="bottom">L<hi rend="sup">d</hi> 
+                     <hi>Somers,</hi> Baron of <hi>Eviſham,</hi> Lord High Chancellor, and one of the Lords Juſtices of <hi>England.</hi>
+                  </note> 
+                  <hi>Eſom</hi>'s Coronet?</l>
+               <l>A fruitful Chaplet 'tis, compos'd of Wheat,</l>
+               <l>The Staff of Life, is He the ſame of State?</l>
+               <l>He is thou ſay'ſt, th' Inſcription ſhall be that.</l>
+               <l>This was the Biſhop's<note n="m" place="bottom">The Biſhops tryed in the late Reign, for whom his Lordſhip was Council.</note> Bleſſing on his Head,</l>
+               <l>The Holy Oyl could not in vain be ſhed;</l>
+               <lg>
+                  <l>
+                     <hi>Saul</hi> did Storm high, but God reſtrain'd his Power,</l>
+                  <l>Th' outragious Billows did <hi>himſelf</hi> devour,</l>
+                  <l>But the ſame Waves brought <hi>David</hi> to the Shore.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Between the Principles of Corporal things</l>
+               <l>Is Enmity, whence Agitation Springs:</l>
+               <l>For <hi>Nature</hi> with her ſelf contending force,</l>
+               <l>Gives all her compound <hi>Births</hi> their deſtin'd courſe.</l>
+               <lg>
+                  <l>Hence Planetary Bodies know their Stage;</l>
+                  <l>Brutes take up Inſtincts, Men run on to Age,</l>
+                  <l>Where <hi>Cold</hi> and <hi>Earth</hi> prevailing, ends their Rage.</l>
+               </lg>
+               <l>
+                  <note n="n" place="bottom">Of the Place in general.</note> 
+                  <hi>Thine</hi> ſure's the Nice Punctillio where they Fight</l>
+               <l>In their Originals. Fate took delight</l>
+               <l>To temper <hi>thee,</hi> and held his Scales aright:</l>
+               <lg>
+                  <pb n="13" facs="tcp:35456:8"/>
+                  <l>So pure thy Soyl, ſo moderate thy Clime,</l>
+                  <l>Thy Nature ſeems but in her Youth and Prime,</l>
+                  <l>Nor moans (as elſewhere) of th' Abuſe of <hi>Time:</hi>
+                  </l>
+               </lg>
+               <l>Nor in the Circle of his Antient Arms</l>
+               <l>Withers, but leads him on by force of Charms</l>
+               <lg>
+                  <l>Round all his Seaſons: Hence thy Men ſo Free,</l>
+                  <l>So Upright, and ſo turn on Curteſie:</l>
+                  <l>Thou 'rt influenc'd by Heaven, and They by Thee.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35456:9" rendition="simple:additions"/>
+            <pb facs="tcp:35456:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
